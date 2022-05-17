@@ -6,9 +6,9 @@
 
 3 ) ``apt install python && apt install git``
 
-4 ) ``git clone https://github.com/z6il/Insta_report_eyes.git``
+4 ) ``git clone https://github.com/alvinbaby/InstaReport.git``
 
-5 ) ``cd Insta_report_eyes``
+5 ) ``cd InstaReport``
 
 6 ) ``pip3 install requirements.txt``
 
